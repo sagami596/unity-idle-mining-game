@@ -29,7 +29,7 @@ Game Loop (Update)
 Time.deltaTime
 Screenshots
 
-(Add screenshots here)
+....
 
 Future Improvements
 Save / Load System
