@@ -4,12 +4,6 @@ Idle Mining Game
 A simple idle mining game developed with Unity and C#.
 
 Features
-Iron, Copper, Silver, Gold, and Diamond mines
-Upgrade System
-Auto Mining System
-Progress Bar System
-Save / Load System
-Object-Oriented Mine Architecture
 Multiple mine types:
 Iron Mine
 Copper Mine
